@@ -1,0 +1,7 @@
+Add JAVA EE
+1. Goto Help-> Install New Software
+2. Add url “http://download.eclipse.org/releases/indigo” to the drop down box (wait until it displays all the packages).
+    Select option "Web, XML, Java EE and OSGI Enterprise Development", press next and install.
+3. Restart eclipse, after installation done.
+4. window -> open perspective -> select other
+    select Java EE and OK
